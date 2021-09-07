@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Vizarri
-- 👀 I’m interested in С#
-- 🌱 I’m currently learning C# and Unity
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in С# and java
+- 🌱 I’m currently learning C# and java
 
 <!---
 Vizarri/Vizarri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
